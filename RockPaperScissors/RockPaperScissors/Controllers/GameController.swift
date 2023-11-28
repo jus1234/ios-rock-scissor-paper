@@ -175,5 +175,5 @@ class GameController {
     func endGame() {
         view.end()
     }
-    
+
 }
