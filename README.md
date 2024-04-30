@@ -2,8 +2,6 @@
 
 ### 묵찌빠 프로젝트 저장소
 
-## STEP 2 [SiDi, Matthew]
-
 ### 코드 설명
 
 - GamePlayer : `Stack` 에 게임이 담긴 경우 담긴 게임을 `pop`해 진행, 싱글톤 패턴
